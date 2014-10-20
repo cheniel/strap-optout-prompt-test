@@ -1,0 +1,17 @@
+{
+  "uuid": "492c56ab-ab14-4cbd-a8f2-044d59973bc6",
+  "shortName": "prompt-test-app",
+  "longName": "prompt-test-app",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
